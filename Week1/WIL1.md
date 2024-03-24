@@ -42,3 +42,87 @@ git branch -M main
 git push -u origin main
 #Remote Repo인 github에 푸시한다.
 ```
+### 4. Commit 팁
+무엇을 수정한지 알기 쉽도록 수정 Type을 작성해본다.
+
+> **feat**: 새로운 기능을 추가한 경우   
+> **refactor**: 기존 코드를 개선한 경우   
+> **fix**: 버그를 수정한 경우   
+> **chore**: 코드 외의 설정을 바꾼 경우   
+> **docs**: 문서화   
+> **test**: 테스트 코드
+
+### 5. 마크다운(Markdown) 연습
+
+```markdown
+마크다운에서 마크다운 코드를 적다
+# 헤딩
+## h2
+### h3
+###### h6
+
+<hr/>
+
+1. 이
+2. 것
+3. 은
+4. ordered
+
+- 이
+    * 것
+        + 은
+            - unordered and indented
+
+> "이것은 BlockQuote이다"   
+> \- Elon Musk
+
+
+    this is code block   
+    
+
+~~*벌써* **코딩이** _귀찮_ __아요__~~
+
+[링크][id]
+
+[id]: [https://www.wikiwand.com/en/Link_(The_Legend_of_Zelda)]
+```
+#### 위의 마크다운 코드는 다음을 작성한다:
+
+> 마크다운에서 마크다운 코드를 적다
+># 헤딩
+>## h2
+>### h3
+>###### h6
+>
+> <hr/>
+>
+> 1. 이
+> 2. 것
+> 3. 은
+> 4. ordered
+>
+> - 이
+>     * 것
+>         + 은
+>               - unordered and indented
+> 
+> > "이것은 BlockQuote이다"   
+> > \- Elon Musk
+> 
+> 
+>       this is code block   
+>     
+> 
+> ~~*벌써* **코딩이** _귀찮_ __아요__~~
+>
+>
+> [링크][id]
+> 
+> [id]: [https://www.wikiwand.com/en/Link_(The_Legend_of_Zelda)]
+
+### 6. 궁금한 점
+1. .md 파일의 경우 어떤 커밋 타입을 써야하는가?
+2. 실수한 커밋은 수정할 수 없나?
+
+
+<https://github.com/Heonwoos/Heonwoos>
