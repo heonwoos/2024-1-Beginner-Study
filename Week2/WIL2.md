@@ -73,4 +73,4 @@ commit hash가 변경되고, 잘못하면
 
 아직 이부분은 이해가 잘 되지 않아 나중에 시도해 봐야겠다.
 
-<https://github.com/heonwoos/2024-1-Beginner-Study/issues/1>
+<https://github.com/heonwoos/2024-1-Beginner-Study/pull/2>
